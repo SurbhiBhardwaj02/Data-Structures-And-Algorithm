@@ -30,7 +30,6 @@ class Queue1
             //or rear=rear.next
             System.out.println("Inserted");
 
-
         }
 
     }
